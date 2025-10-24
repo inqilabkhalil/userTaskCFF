@@ -1,4 +1,0 @@
-/Users/inqilab/RiderProjects/userTaskCFF/userTaskCFF/obj/Debug/net8.0/userTaskCFF.GeneratedMSBuildEditorConfig.editorconfig
-/Users/inqilab/RiderProjects/userTaskCFF/userTaskCFF/obj/Debug/net8.0/userTaskCFF.AssemblyInfoInputs.cache
-/Users/inqilab/RiderProjects/userTaskCFF/userTaskCFF/obj/Debug/net8.0/userTaskCFF.AssemblyInfo.cs
-/Users/inqilab/RiderProjects/userTaskCFF/userTaskCFF/obj/Debug/net8.0/userTaskCFF.csproj.CoreCompileInputs.cache
