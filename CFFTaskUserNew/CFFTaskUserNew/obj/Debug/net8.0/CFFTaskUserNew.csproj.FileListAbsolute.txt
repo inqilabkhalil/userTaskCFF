@@ -1,0 +1,14 @@
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/bin/Debug/net8.0/CFFTaskUserNew
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/bin/Debug/net8.0/CFFTaskUserNew.deps.json
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/bin/Debug/net8.0/CFFTaskUserNew.runtimeconfig.json
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/bin/Debug/net8.0/CFFTaskUserNew.dll
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/bin/Debug/net8.0/CFFTaskUserNew.pdb
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.AssemblyInfoInputs.cache
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.AssemblyInfo.cs
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.csproj.CoreCompileInputs.cache
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.dll
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/refint/CFFTaskUserNew.dll
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.pdb
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/CFFTaskUserNew.genruntimeconfig.cache
+/Users/inqilab/RiderProjects/CFFTaskUserNew/CFFTaskUserNew/obj/Debug/net8.0/ref/CFFTaskUserNew.dll
